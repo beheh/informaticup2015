@@ -1,0 +1,19 @@
+Von-Bis-Koordinaten Testdaten:
+    50.8854 (id:12) - 51.2147 (id:93);
+    4.42390 (id:93) - 5.81238 (id:84);
+
+Algorithmen:
+
+Bibliotheken:
+
+* Maven
+* JUnit
+* geotools
+* api für KML http://labs.micromata.de/projects/jak.html
+
+Heuristiken:
+
+Herausforderungen:
+
+* Datenstruktur, um Polygone nah zu einem Punkt zu finden (evtl. http://en.wikipedia.org/wiki/Closest_pair_of_points_problem)
+* Zusammenhängende SUR
